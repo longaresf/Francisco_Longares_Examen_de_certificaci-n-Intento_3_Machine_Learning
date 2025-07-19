@@ -13,12 +13,12 @@ Este proyecto tiene como objetivo analizar datos de salud de mujeres de ascenden
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/longaresf/Francisco_Longares_Examen_de_certificaci-n-Intento_3_Machine_Learning.git
-
+   ```
 2. Ejecutar el notebook: Francisco_Longares_Examen_de_certificación–Intento_3_Machine_Learning.ipynb, ubicados en la carpeta notebooks/ siguiendo el orden sugerido en los títulos.
 3. El dataframe se encuentra en la carpeta data/.
 
-##Autor
+## Autor
     Francisco Longares - Analista de Datos y Desarrollador de Modelos
 
-##Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT.
